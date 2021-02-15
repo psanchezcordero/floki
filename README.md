@@ -10,19 +10,19 @@ Includes MalConfScan plugin from Japan Cert
 
 The general characteristics are:
 
-•	Automatic detection of the ram file profile
+*  Automatic detection of the ram file profile
 
-•	Creation of an MFT timeline and memory data
+*  Creation of an MFT timeline and memory data
 
-•	Process automation and extraction
+*  Process automation and extraction
 
-•	Process export and possible malware detection
+*  Process export and possible malware detection
 
-•	Sending hashes to intelligence platforms
+*  Sending hashes to intelligence platforms
 
-•	Search using Yara rules
+*  Search using Yara rules
 
-•	Automatic search for malware families known by Malconfscan
+*  Automatic search for malware families known by Malconfscan
 
 
 ![]([https://raw.github.com/psanchezcordero/floki/blob/main/floki.JPG])
