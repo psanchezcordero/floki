@@ -25,4 +25,4 @@ The general characteristics are:
 •	Automatic search for malware families known by Malconfscan
 
 
-https://github.com/psanchezcordero/floki/blob/main/floki.JPG
+https://raw.github.com/psanchezcordero/floki/blob/main/floki.JPG
