@@ -11,17 +11,11 @@ Includes MalConfScan plugin from Japan Cert
 The general characteristics are:
 
 *  Automatic detection of the ram file profile
-
 *  Creation of an MFT timeline and memory data
-
 *  Process automation and extraction
-
 *  Process export and possible malware detection
-
 *  Sending hashes to intelligence platforms
-
 *  Search using Yara rules
-
 *  Automatic search for malware families known by Malconfscan
 
 
